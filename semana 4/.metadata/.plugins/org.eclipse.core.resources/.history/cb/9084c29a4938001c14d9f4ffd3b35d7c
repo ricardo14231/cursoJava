@@ -1,0 +1,29 @@
+package com.ricardofarias.json.testjson;
+
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
+
+import net.minidev.json.JSONObject;
+
+public class Json {
+
+	public static void main(String[] args) throws FileNotFoundException {
+		
+		JSONObject json = new JSONObject();
+		
+		json.put("nome", "Julio");
+		json.put("sobrenome", "Smith");
+		json.put("idade", 25);
+		json.put("nome", "Julio");
+		json.put("sobrenome", "Smith");
+		json.put("idade", 25);
+		
+		System.out.println(json);
+		
+		PrintWriter salvar = new PrintWriter(".src/main/java/json.json");
+		salvar.write(json.toJSONString());
+		
+		salvar.flush();
+		salvar.close();
+	}
+}

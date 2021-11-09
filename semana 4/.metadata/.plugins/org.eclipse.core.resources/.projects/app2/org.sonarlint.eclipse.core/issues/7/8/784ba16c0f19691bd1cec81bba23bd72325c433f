@@ -1,0 +1,32 @@
+
+ˆ
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.RequestBody'.(â­½Àıÿÿÿÿ8Æ×‰ÑË/H‘RMINORZ
+CODE_SMELL
+•	java:S116 "^Rename this field "URI_SUBSTITUIDA_ALL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô‰Î»úÿÿÿÿ8Æ×‰ÑË/H‚RMINORZ
+CODE_SMELL
+T
+java:S1170!"!Make this final field static too.(…‹ä­8Æ×‰ÑË/H…RMINORZ
+CODE_SMELL
+ˆ
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.PostMapping'.(äƒà°ùÿÿÿÿ8Æ×‰ÑË/HRMINORZ
+CODE_SMELL
+x
+java:S1128"@Remove this unused import 'org.springframework.http.HttpMethod'.(Ê¨Ä¡øÿÿÿÿ8Æ×‰ÑË/H‹RMINORZ
+CODE_SMELL
+y
+java:S1128"ARemove this unused import 'org.springframework.http.HttpHeaders'.(ãŸñ×úÿÿÿÿ8Æ×‰ÑË/H‰RMINORZ
+CODE_SMELL
+€	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³’‰ş8Æ×‰ÑË/H†RMINORZ
+CODE_SMELL
+s
+java:S1128
+"@Remove this unused import 'org.springframework.http.HttpEntity'.(ÂéÓ8Æ×‰ÑË/H‡RMINORZ
+CODE_SMELL
+w
+java:S1128"?Remove this unused import 'org.springframework.http.MediaType'.(úŸİ¯şÿÿÿÿ8Æ×‰ÑË/HRMINORZ
+CODE_SMELL
+“	java:S116!"aRename this field "URI_SUBSTITUIDA_ALL_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‹ä­8Æ×‰ÑË/HƒRMINORZ
+CODE_SMELL
+Y
+java:S1170 "!Make this final field static too.(ô‰Î»úÿÿÿÿ8Æ×‰ÑË/H„RMINORZ
+CODE_SMELL

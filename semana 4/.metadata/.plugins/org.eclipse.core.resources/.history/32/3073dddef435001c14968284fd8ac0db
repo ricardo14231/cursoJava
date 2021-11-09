@@ -1,0 +1,5 @@
+package com.ricardofarias.app1.controller;
+
+public class UsuarioController {
+
+}

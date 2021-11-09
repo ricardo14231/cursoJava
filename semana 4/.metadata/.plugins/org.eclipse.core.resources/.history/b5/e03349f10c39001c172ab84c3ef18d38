@@ -1,0 +1,6 @@
+package overEPolimorfismo.demo;
+
+public class Carro extends Veiculo {
+	
+	
+}

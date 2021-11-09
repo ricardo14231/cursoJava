@@ -1,0 +1,10 @@
+
+
+java:S4144'"XUpdate this method so that its implementation is not identical to "getIdade" on line 31.(ô‚ƒ¾øÿÿÿÿ8¯«ÿñÌ/H¯	RMAJORZ
+CODE_SMELL
+
+java:S1450"\Remove the "nacionalidade" field and declare it as a local variable in the relevant methods.(“¬Ô 8¯«ÿñÌ/H±	RMINORZ
+CODE_SMELL
+d
+java:S1068"1Remove this unused "nacionalidade" private field.(“¬Ô 8¯«ÿñÌ/H²	RMAJORZ
+CODE_SMELL

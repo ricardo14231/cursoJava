@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\MY LORD\Documents\workspace-sts-3.9.8.RELEASE\projects\semana 4\servidor--eureka"/>
+			<item value="C:\Users\MY LORD\Documents\workspace-sts-3.9.8.RELEASE\projects\semana 4\micro-tabela"/>
+			<item value="C:\Users\MY LORD\Documents\workspace-sts-3.9.8.RELEASE\projects\semana 4\micro_calculadora"/>
+			<item value="C:\Users\MY LORD\Documents\workspace-sts-3.9.8.RELEASE\projects\semana 4\Banco-Pan-MicroServices"/>
+			<item value="C:\Users\MY LORD\Documents\workspace-sts-3.9.8.RELEASE\projects\semana 4\Para-para-revisao-feig"/>
+			<item value="C:\Users\MY LORD\Documents\workspace-sts-3.9.8.RELEASE\projects\semana 4\micro-tabela_2"/>
+			<item value="C:\Users\MY LORD\Documents\workspace-sts-3.9.8.RELEASE\projects\semana 4\micro_calculadora_2"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

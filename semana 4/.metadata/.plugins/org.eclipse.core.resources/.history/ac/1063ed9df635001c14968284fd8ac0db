@@ -1,0 +1,5 @@
+package com.ricardofarias.app1.config;
+
+public class RestTemplateConfig {
+
+}

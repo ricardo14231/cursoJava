@@ -1,0 +1,5 @@
+package com.ricardofarias.aula2feign;
+
+public class UsuarioController {
+
+}

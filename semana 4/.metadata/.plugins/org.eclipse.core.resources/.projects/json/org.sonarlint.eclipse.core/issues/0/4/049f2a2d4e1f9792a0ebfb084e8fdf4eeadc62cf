@@ -1,0 +1,9 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(øŒ¼Æ8è±ÈÊÌ/HİRMAJORZ
+CODE_SMELL
+u
+java:S4143"DVerify this is the key that was intended; it was already set before.(˜Æıÿÿÿÿ8è±ÈÊÌ/H×RMAJORZBUG
+u
+java:S4143"DVerify this is the key that was intended; it was already set before.(é¤¸Íøÿÿÿÿ8è±ÈÊÌ/HÛRMAJORZBUG
+p
+java:S4143"DVerify this is the key that was intended; it was already set before.(î³ûü8è±ÈÊÌ/HÙRMAJORZBUG

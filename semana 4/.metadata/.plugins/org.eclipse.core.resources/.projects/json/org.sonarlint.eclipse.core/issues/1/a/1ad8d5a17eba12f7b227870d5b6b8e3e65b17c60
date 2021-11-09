@@ -1,0 +1,35 @@
+
+u
+java:S4143"DVerify this is the key that was intended; it was already set before.(÷«Äøÿÿÿÿ8°ûøÊÌ/HœRMAJORZBUG
+€
+java:S1192"JDefine a constant instead of duplicating this literal "Sobrenome" 3 times.(è»å¡8°ûøÊÌ/H®RCRITICALZ
+CODE_SMELL
+k	java:S106""9Replace this use of System.out or System.err by a logger.(®õæ»8çëñÊÌ/H˜RMAJORZ
+CODE_SMELL
+h
+java:S1128	"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8°ûøÊÌ/H¤RMINORZ
+CODE_SMELL
+
+java:S1192"FDefine a constant instead of duplicating this literal "Julio" 3 times.(÷«Äøÿÿÿÿ8°ûøÊÌ/H¶RCRITICALZ
+CODE_SMELL
+|
+java:S1192"FDefine a constant instead of duplicating this literal "idade" 3 times.(Ò¦»Ö8°ûøÊÌ/HªRCRITICALZ
+CODE_SMELL
+p
+java:S4143"DVerify this is the key that was intended; it was already set before.(è»å¡8°ûøÊÌ/H RMAJORZBUG
+g
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ8°ûøÊÌ/H¢RMINORZ
+CODE_SMELL
+q
+java:S1128">Remove this unused import 'org.json.simple.parser.JSONParser'.(õø²¹8°ûøÊÌ/H¦RMINORZ
+CODE_SMELL
+u
+java:S1128"BRemove this unused import 'org.json.simple.parser.ParseException'.(ƒÁ‡8°ûøÊÌ/H¨RMINORZ
+CODE_SMELL
+p	java:S106#"9Replace this use of System.out or System.err by a logger.(«ÕÍØùÿÿÿÿ8çëñÊÌ/H›RMAJORZ
+CODE_SMELL
+|
+java:S1192"FDefine a constant instead of duplicating this literal "Smith" 3 times.(è»å¡8°ûøÊÌ/H²RCRITICALZ
+CODE_SMELL
+p
+java:S4143"DVerify this is the key that was intended; it was already set before.(Ò¦»Ö8°ûøÊÌ/HRMAJORZBUG

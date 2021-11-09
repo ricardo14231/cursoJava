@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="api-zuul-gateway"/>
+<aop-project name="aula"/>
+<aop-project name="app1"/>
+<aop-project name="app2"/>
+<aop-project name="aula2-feign"/>
+<aop-project name="json"/>
+</aop-reference-model>
